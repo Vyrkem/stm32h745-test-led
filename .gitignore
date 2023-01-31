@@ -3,4 +3,5 @@
 *.project
 *.o
 *.hex
-*.id
+*.ld
+*.launch
