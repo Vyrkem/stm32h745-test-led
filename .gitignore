@@ -1,0 +1,6 @@
+*.ioc
+*.cproject
+*.project
+*.o
+*.hex
+*.id
